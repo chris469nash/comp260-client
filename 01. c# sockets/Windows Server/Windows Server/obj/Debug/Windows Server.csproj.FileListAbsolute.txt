@@ -1,0 +1,32 @@
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\Windows Server.exe.config
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\Windows Server.exe
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\Windows Server.pdb
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\obj\Debug\Windows Server.csprojResolveAssemblyReference.cache
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\obj\Debug\Windows Server.csproj.CoreCompileInputs.cache
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\obj\Debug\Windows Server.exe
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\obj\Debug\Windows Server.pdb
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\EntityFramework.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\EntityFramework.xml
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\jp187238\Downloads\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\Windows Server.exe.config
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\Windows Server.exe
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\Windows Server.pdb
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\EntityFramework.dll
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\EntityFramework.xml
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\obj\Debug\Windows Server.csprojResolveAssemblyReference.cache
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\obj\Debug\Windows Server.csproj.CoreCompileInputs.cache
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\obj\Debug\Windows Server.exe
+C:\Users\jp187238\Downloads\comp260-client\01. c# sockets\its not broken\Lecture 09 (1)\Lecture 09\client-server review\Windows Server\Windows Server\obj\Debug\Windows Server.pdb
